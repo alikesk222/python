@@ -1,2 +1,2 @@
-# python
-python ile yaptığım çalışmalar
+# QR kode
+çok basit ve birkaç satırla yapılabilen qr kod projesi
